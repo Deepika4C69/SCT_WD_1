@@ -1,7 +1,11 @@
 Check here the Project Output:
+
    https://navigation-menu-page-deepika.netlify.app/
+   
 🌐 Project Title: SkillCraft - Digital Solutions
+
 🎯 Objective Assessment:
+
 ->The project successfully delivers a responsive, user-friendly web page that adapts beautifully to different screen sizes. It goes beyond the basic requirements with advanced interactive elements and comprehensive content organization.
 
 🧩 Key Features Evaluation:
